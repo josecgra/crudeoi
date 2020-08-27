@@ -37,7 +37,7 @@
 	</nav>
 	
 	<table>
-		<caption>Lista de Departamentos</caption>
+		<caption><b>Lista de Departamentos</b></caption>
 		<tr>
 			<th>codDepto</th>
 			<th>nombreDpto</th>
